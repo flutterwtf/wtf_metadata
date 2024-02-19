@@ -1,5 +1,5 @@
 import 'package:html/dom.dart';
-import 'package:metadata_fetch/metadata_fetch.dart';
+import 'package:wtf_metadata/metadata_fetch.dart';
 
 /// Does Works with `BaseMetadataParser`
 class MetadataParser {

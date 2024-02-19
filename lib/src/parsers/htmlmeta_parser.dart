@@ -1,6 +1,6 @@
 import 'package:html/dom.dart';
-import 'package:metadata_fetch/metadata_fetch.dart';
-import 'package:metadata_fetch/src/utils/util.dart';
+import 'package:wtf_metadata/metadata_fetch.dart';
+import 'package:wtf_metadata/src/utils/util.dart';
 
 import 'base_parser.dart';
 

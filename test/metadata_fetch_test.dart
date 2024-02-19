@@ -1,4 +1,4 @@
-import 'package:metadata_fetch/metadata_fetch.dart';
+import 'package:wtf_metadata/metadata_fetch.dart';
 import 'package:html/parser.dart' as html;
 import 'package:http/http.dart' as http;
 import 'package:test/test.dart';

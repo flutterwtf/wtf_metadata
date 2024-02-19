@@ -1,4 +1,4 @@
-import 'package:metadata_fetch/metadata_fetch.dart';
+import 'package:wtf_metadata/metadata_fetch.dart';
 
 void main() async {
   var data = await MetadataFetch.extract(
