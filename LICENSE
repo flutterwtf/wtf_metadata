@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright (c) 2024 flutter.wtf
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,15 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   Additional Statement:
+
+   This product includes software developed at flutter.wtf and incorporates
+   modifications to the original software provided by Jethro Lising under
+   the original copyright notice as follows:
+
+   Copyright 2020 Jethro Lising
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the above copyright notice,
+   this list of conditions, and the following disclaimer are retained.

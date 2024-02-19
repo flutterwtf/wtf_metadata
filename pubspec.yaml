@@ -1,7 +1,7 @@
 name: wtf_metadata
 description: A dart library for extracting metadata on web pages such as OpenGraph, Meta, Twitter Cards, and Structured Data (Json-LD)
-version: 0.4.1
-homepage: https://github.com/jg-l/metadata_fetch
+version: 1.0.0
+homepage: https://github.com/flutterwtf/wtf_metadata
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
